@@ -1,0 +1,13 @@
+package eg.com.hottelbackend2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HottelBackend2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HottelBackend2Application.class, args);
+    }
+
+}
